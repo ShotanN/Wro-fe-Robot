@@ -1,6 +1,6 @@
 # Wro-fe-Robot
 # WRO Robot 2025 - "Jana Kadam"
-Команда: Kaiisar и Shotan
+Команда: Kaissar и Shotan
 
 ## Конструкция робота
 - **Платформа**: LEGO Spike Prime
