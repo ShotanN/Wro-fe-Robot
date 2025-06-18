@@ -1,9 +1,4 @@
-# Код избегания препятствий
-from spike import DistanceSensor
-
-dist_sensor = DistanceSensor('A')
-
-def avoid_obstacles():
+How do we go through the challenge obstacle?
+We use a light sensor and a distance sensor here when the distance sensor see the unit doing certain actions lightn sensor to see colors
     if dist_sensor.get_distance_cm() < 15:
-        # Алгоритм объезда
-        pass
+        IN Youtube
