@@ -1,9 +1,5 @@
-# Код управления через гироскоп
-from spike import PrimeHub
-
-hub = PrimeHub()
-hub.motion_sensor.reset_yaw_angle()
-
-def move_forward():
-    # Реализация движения с использованием гироскопа
-    pass
+How do we go through the open challenge?
+We only use large motors and a gyro unit in the spike application
+We picked up seconds for turns, then through the gyro block robot to cook
+And with this we go through three circles
+IN Youtube
